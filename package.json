@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "firebase": "^9.8.2",
+    "nodemon": "^2.0.16",
+    "package": "^1.0.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+ }
+}
+
